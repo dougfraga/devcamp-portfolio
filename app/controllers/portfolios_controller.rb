@@ -49,7 +49,7 @@ class PortfoliosController < ApplicationController
     	# Perform the lookup
     	@portfolio_item = Portfolio.find(params[:id])
 
-    	# Destroy the record
+    	# Destroy/delete the record
 	    @portfolio_item.destroy
 
 	    # Redirect
