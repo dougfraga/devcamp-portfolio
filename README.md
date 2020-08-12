@@ -2,7 +2,7 @@
 
 Laboratory to learn and construct a full stack application with Rails. Actually in progress.
 
-=====================================================================================
+============================================================================
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
